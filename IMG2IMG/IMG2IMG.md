@@ -1,4 +1,4 @@
-|[image](https://raw.githubusercontent.com/Woong1016/AI_Project_2026_01_3B_W/97ae74f7aa7a861ce2be7f40b34f646adf20093b/IMG2IMG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
+![image](https://raw.githubusercontent.com/Woong1016/AI_Project_2026_01_3B_W/97ae74f7aa7a861ce2be7f40b34f646adf20093b/IMG2IMG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
 
 
 >prompt
